@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664443284256",
+    "project_id": "smart-traffic-management-33839",
+    "storage_bucket": "smart-traffic-management-33839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664443284256:android:0909b12811d057977b0545",
+        "android_client_info": {
+          "package_name": "com.example.uday_vig.mapmyindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWdSzxFZatGsqliAylwrdcwDpT_b7e1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
